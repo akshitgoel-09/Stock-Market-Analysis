@@ -47,10 +47,6 @@ A web application to analyze stock market data over different periods, allowing 
 - NFLX
 - DIS
 
-## Preview
-
-Screenshot or demo GIF can be added here.
-
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
